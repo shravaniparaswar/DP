@@ -23,3 +23,7 @@ int main()
 	}
 	cout<<max(dp[0][n-1],dp[1][n-1]);
 }
+
+
+//refernces:
+//https://medium.com/@tiwarishashank325/dynamic-programming-1838f89dc5ad
